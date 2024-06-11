@@ -1,13 +1,13 @@
 ## Contributors
 <p>
 <a href="https://github.com/99MinSu">
-  <img src="https://avatars.githubusercontent.com/u/72124326?v=4" width="100">
+  <img src="https://avatars.githubusercontent.com/u/89891084?v=4" width="100">
 </a>
 <a href="https://github.com/Minsu17">
-  <img src="https://avatars.githubusercontent.com/u/114072164?v=4" width="100">
+  <img src="https://avatars.githubusercontent.com/u/89891511?s=96&v=4" width="100">
 </a>
 <a href="https://github.com/OkKim99">
-  <img src="https://avatars.githubusercontent.com/u/53097336?v=4" width="100">
+  <img src="https://avatars.githubusercontent.com/u/89891488?s=400&v=4" width="100">
 </a>
 </p>
 
