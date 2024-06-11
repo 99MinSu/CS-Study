@@ -1,3 +1,23 @@
+## About
+- [ 전공자로서 알아야 할 기본 **CS 지식 52개** + 각자 관심 있는 **기술 α개** ]를 공부, 발표, 토론하고 정리해둔 공간입니다.  
+- 주목적은 **면접 대비**이고, 향후 다른 개발자들과 **소통**하여 좋은 영향을 주고 받을 수 있게 되는 것이 또 하나의 목표입니다.
+- 컴퓨터학부생 3명 (Java Spring 3명)이 진행했습니다. 
+- 2024.06.12 ~
+
+## Guide
+
+> [스터디 규칙 :bulb:]   
+
+> [github 작업 가이드 :guide_dog:]
+
+
+> 구경하는 방법 : 각 대주제(폴더)마다 README 파일이 하나씩 있는 구조입니다.   
+  원하는 폴더로 이동한 다음, 상단의 햄버거 버튼을 누르면 목차대로 보실 수 있습니다.  
+
+  <img src="https://user-images.githubusercontent.com/72124326/221341370-066b6e11-41cd-4e7e-ac7d-1d70544e940c.png" width="50%" height="50%">
+
+## Contents
+
 ## Contributors
 <p>
 <a href="https://github.com/99MinSu">
