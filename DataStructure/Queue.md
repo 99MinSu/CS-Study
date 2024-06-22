@@ -1,5 +1,5 @@
 # Queue(큐)
-==========
+
 Queue(큐)의 사전적 의미는 '무엇을 기다리는 사람', '차량 등의 줄 혹은 줄을 서서 기다리는 것'을 의미하며 Stack과는 다르게 **먼저 집어 넣은 데이터가 먼저 나오는 FIFO(First In First Out)형태를 가지는 자료구조**
 
 ![queue.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/2f20a6c7-75a2-4e86-abcf-d206744c0856/queue.png)
