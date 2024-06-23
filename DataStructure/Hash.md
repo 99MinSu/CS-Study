@@ -140,7 +140,8 @@ static final float DEFAULT_LOAD_FACTOR = 0.75f;
 ### 🔴⚫️ Red-Black Tree
 Red-Black Tree는 이진 탐색 트리입니다.   
 자바는 최악의 경우에도 좋은 검색 성능을 가지는 특징 때문에 선택했습니다.   
-자세한 내용은 위키피디아를 확인하시기 바랍니다.   
+### Red-Black Tree 참고 링크   
+https://code-lab1.tistory.com/62#google_vignette
 
 ### 🎫 HashTable
 HashMap과 거의 유사한 자료 구조입니다. 하지만 몇 가지 차이가 존재합니다.   
@@ -153,6 +154,8 @@ Map에서는 key와 value 모두 null을 사용할 수 있지만 Table에서는 
 
 정리하면, HashTable은 Thread-Safe 하지만 성능이 부족하므로,   
 ConcurrentHashMap을 을 사용해서 쓰레드 안정성을 챙기면 됩니다.   
+### ConcurrentHashMap 참고 링크   
+https://m.blog.naver.com/manggo_ya_/223449763877
 
 ### 👥 HashSet
 HashSet은 내부적으로 HashMap을 사용합니다.   
