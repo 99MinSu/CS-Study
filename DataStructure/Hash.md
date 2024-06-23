@@ -153,6 +153,8 @@ Map에서는 key와 value 모두 null을 사용할 수 있지만 Table에서는 
 
 정리하면, HashTable은 Thread-Safe 하지만 성능이 부족하므로,   
 ConcurrentHashMap을 을 사용해서 쓰레드 안정성을 챙기면 됩니다.   
+### ConcurrentHashMap 참고 링크   
+https://m.blog.naver.com/manggo_ya_/223449763877
 
 ### 👥 HashSet
 HashSet은 내부적으로 HashMap을 사용합니다.   
