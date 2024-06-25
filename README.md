@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=CS-Study&fontAlign=72&fontAlignY=40&fontSize=60&color=50BCDF&fontColor=FFFFFF)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=CS-Study&fontAlign=20&fontAlignY=40&fontSize=60&color=50BCDF&fontColor=FFFFFF)
 
 ## Contents
 - [DataStructure (자료구조)](https://github.com/99MinSu/CS-Study/tree/main/DataStructure)
