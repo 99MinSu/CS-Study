@@ -33,7 +33,7 @@
 </p>
 
 ## Reference
-- [wonslee CS-study](https://github.com/wonslee/CS-stud)]
+- [wonslee CS-study](https://github.com/wonslee/CS-stud)
 - [👨🏻‍💻 Tech Interview](https://gyoogle.dev/blog/)  
 - [서그림님의 CS-study](https://github.com/Seogeurim/CS-study)  
 - [GitHub - JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner#part-1-%EC%A0%84%EC%82%B0-%EA%B8%B0%EC%B4%88)  
