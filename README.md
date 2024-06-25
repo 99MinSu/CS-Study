@@ -1,4 +1,8 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=CS-Study&fontAlign=72&fontAlignY=40&fontSize=60&color=gradient&fontColor=50BCDF)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=CS-Study&fontAlign=72&fontAlignY=40&fontSize=60&color=50BCDF&fontColor=FFFFFF)
+
+## Contents
+- [DataStructure (자료구조)](https://github.com/99MinSu/CS-Study/tree/main/DataStructure)
+- [Design_Pattern (디자인 패턴)](https://github.com/99MinSu/CS-Study/tree/main/Design_Pattern)
 
 ## About
 - 전공자로서 알아야 할 기본 **CS 지식**을 공부, 발표, 토론하고 정리해둔 공간입니다.  
@@ -15,20 +19,6 @@
 
   <img src="https://user-images.githubusercontent.com/72124326/221341370-066b6e11-41cd-4e7e-ac7d-1d70544e940c.png" width="50%" height="50%">
 
-## Contents
-- [DataStructure (자료구조)](https://github.com/99MinSu/CS-Study/tree/main/DataStructure)
-  - Array
-  - List
-  - Stack
-  - Queue & Deque
-  - Tree & Binary Tree
-  - Graph
-  - Hash 
-  - Indexed Tree (Segment Tree)
-- [Design_Pattern (디자인 패턴)](https://github.com/99MinSu/CS-Study/tree/main/Design_Pattern)
-  - Factory_Pattern
-  - Sington_Pattern
-  - Strategy_Pattern
 ## Contributors
 <p>
 <a href="https://github.com/99MinSu">
@@ -43,6 +33,7 @@
 </p>
 
 ## Reference
+- [wonslee CS-study](https://github.com/wonslee/CS-stud)]
 - [👨🏻‍💻 Tech Interview](https://gyoogle.dev/blog/)  
 - [서그림님의 CS-study](https://github.com/Seogeurim/CS-study)  
 - [GitHub - JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner#part-1-%EC%A0%84%EC%82%B0-%EA%B8%B0%EC%B4%88)  
