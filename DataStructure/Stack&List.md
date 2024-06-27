@@ -52,9 +52,7 @@ stack.contains(1) // stack에 1이 있는지 check (있다면 true)
 
 ## LinkedList
 
-: 
-
-ArrayList와 배열은 모든 데이터가 연속적으로 존재하지만, LinkedList에는 **불연속적**으로 존재하며, 이 데이터는 서로 연결되어 있다. LinkedList 컬렉션은 데이터를 **효율적으로 추가, 삭제, 변경하기 위해 사용한다.**
+: ArrayList와 배열은 모든 데이터가 연속적으로 존재하지만, LinkedList에는 **불연속적**으로 존재하며, 이 데이터는 서로 연결되어 있다. LinkedList 컬렉션은 데이터를 **효율적으로 추가, 삭제, 변경하기 위해 사용한다.**
 
 LinkedList의 각 요소(node)들은 자신과 연결된 이전 및 다음 요소의 주소값과 데이터로 구성되어 있다.
 
