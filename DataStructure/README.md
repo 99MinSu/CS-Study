@@ -4,13 +4,13 @@
 
 * [x] [스택과 리스트](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Stack&List.md)
 
-* [x] [트리] (https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Tree.md)
+* [x] [트리](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Tree.md)
 
-* [x] [그래프] (https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Graph.md)
+* [x] [그래프](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Graph.md)
 
-* [x] [힙] (https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Heap.md)
+* [x] [힙](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Heap.md)
 
-* [x] [배열] (https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Array.md)
+* [x] [배열](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Array.md)
 
 * [x] [해시](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Hash.md)
 
