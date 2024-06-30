@@ -64,7 +64,7 @@ class Node{
 
 # **인접 행렬**
 
-인접 행렬은 **NxN** boolean Matrix 로써 **matrix[i][j]**가 true라면 연결되어 있다는 뜻 입니다.
+인접 행렬은 **NxN** boolean Matrix 로써 **matrix[i][j]** 가 true라면 연결되어 있다는 뜻 입니다.
 
 <img src="https://github.com/99MinSu/CS-Study/assets/89891084/55e99350-8930-40f1-9a1a-aadf908c6250" width="300" height="300"/>
 
@@ -93,7 +93,7 @@ class Node{
 
 # **그래프 탐색**
 
-그래프를 탐색하는 일반적인 방법 두 가지로는 **깊이 우선 탐색(depth-first search)**과 **너비 우선 탐색(breadth-first search)**가 있습니다.
+그래프를 탐색하는 일반적인 방법 두 가지로는 **깊이 우선 탐색(depth-first search)** 과 **너비 우선 탐색(breadth-first search)** 가 있습니다.
 
 - **DFS(깊이 우선 탐색)** : 루트 노드에서 시작해 다음 분기(branch)로 넘어가기 전에 해당 분기를 완벽하게 탐색하는 방법 입니다.
 - **BFS(너비 우선 탐색)** : 루트 노드에서 시작해서 인접한 노드를 먼저 탐색하는 방법 입니다. 인접한 노드가 여러 개일 때는 노드의 번호 순서대로 순회한다고 가정 합니다.
@@ -154,7 +154,7 @@ public class bfsdfs_list {
     // 정점 0, 1, 2, 3, 4 , 5
     // 연결 정보
     // 0 -> 1, 4, 5
-    // 1 -> 4
+    // 1 -> 3, 4
     // 2 -> 1
     // 3 -> 2, 4
     // 4 
@@ -186,7 +186,7 @@ public class bfsdfs_list {
         visit[n] = true;
         
         // 필요한 처리 수행
-        System.out.print(n + " -> ");
+        System.out.print(n + " ");
         
         // 계속 방문을 이어 간다.
         List<Integer> list = adjList.get(n);
@@ -216,7 +216,7 @@ public class bfsdfs_list {
     // 정점 0, 1, 2, 3, 4 , 5
     // 연결 정보
     // 0 -> 1, 4, 5
-    // 1 -> 4
+    // 1 -> 3, 4
     // 2 -> 1
     // 3 -> 2, 4
     // 4 
@@ -252,7 +252,7 @@ public class bfsdfs_list {
             int v = queue.poll();
             
             // 필요한 처리 수행
-            System.out.print(v + " -> ");
+            System.out.print(v + "  ");
             
             // 계속 방문을 이어 간다.
             List<Integer> list = adjList.get(v);
