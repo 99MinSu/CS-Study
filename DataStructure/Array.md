@@ -1,6 +1,7 @@
 # 배열(array)
 
 ## 배열(array)이란?
+![img](https://github.com/99MinSu/CS-Study/assets/89891488/244c79b0-2a85-4470-a4f6-cd79967c4503)
 
 배열은 **같은 타입의 여러 변수들로 이루어 진 하나의 묶음**으로 다루는 선형 자료구조이다.
 
@@ -15,7 +16,8 @@
     - 첫 요소의 인덱스가 0인 이유는 인덱스는 첫 번째 요소를 기준으로 **얼마만큼 떨어져 있는지 상대적인 값으로 표현**하기 때문이다
 - 요소(element) : 배열을 구성하는 각각의 값을 의미
 
-![1차원 배열.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/83f3bad0-7d3a-492d-af16-fd30d69dcd66/1%EC%B0%A8%EC%9B%90_%EB%B0%B0%EC%97%B4.png)
+![1차원 배열](https://github.com/99MinSu/CS-Study/assets/89891488/266bece2-47b2-49ab-a6b3-0bbe431a1620)
+
 
 배열은 각 저장 공간이 연속적으로 붙어있기 때문에 저장 공간에 일일히 이름을 부여할 필요 없이 **참조 변수의 이름과 인덱스 번호를 이용하여 배열의 저장 공간을 다룬다.**
 
@@ -31,7 +33,7 @@
 - 2차원 배열은 요소로 1차원 배열을 가지는 배열, 3차원 배열은 요소로 2차원 배열을, 4차원 배열은 요소로 4차원 배열을 가지는 것 처럼 **기존 차원을 요소로 가지는 배열을 의미한다.**
 - 1차원 배열이 논리적으로 직선 모양 이라면 2차원 배열은 사각형,  3차원 배열은 육면체와 같은 모양이다.
 
-![논리적.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/7120d651-bb55-46e0-82b9-ce2a3fdb0dda/%EB%85%BC%EB%A6%AC%EC%A0%81.png)
+![논리적](https://github.com/99MinSu/CS-Study/assets/89891488/2016f360-b33c-4e6d-9672-ecec00b78c5c)
 
 - 일반적으로 2차원을 초과하는 구조의 배열을 잘 이용하지 않는다.
 
@@ -39,7 +41,7 @@
 
 배열의 요소로 또 다른 1차원 배열을 가지는 배열을 의미한다.  
 
-![2차원.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/40de4165-3f46-48b3-aa9c-279584637723/2%EC%B0%A8%EC%9B%90.png)
+![2차원](https://github.com/99MinSu/CS-Study/assets/89891488/b8d6a172-b73b-4f1a-8f63-44b3ddfa4184)
 
 위의 그림은 **길이가 3인 1차원 배열을 가지는 배열**을 의미 하며,  **2행 3열의 논리적인 구조**를 생각할 수 있다. 따라서 한 요소를 식별하려면 두 개의 인덱스가 필요하다.
 
@@ -47,7 +49,7 @@
 
 하지만 컴퓨터의 메모리는 위와 같은 입체적 공간이 아닌 선형 공간이므로 논리적 구조와 달리 **1차원 배열과 마찬가지로  실제로는 다음 그림과 같이 저장된다.**
 
-![2차원 배열.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/045d7d62-1e52-4999-a321-13c110abee34/2%EC%B0%A8%EC%9B%90_%EB%B0%B0%EC%97%B4.png)
+![2차원 배열](https://github.com/99MinSu/CS-Study/assets/89891488/67eea419-663b-4bec-b700-7f541ca48136)
 
 ---
 
@@ -72,17 +74,17 @@
 | O(n) | O(1) | O(n) | O(n) | O(n) |
 - **삽입(Insertion)**:
 
-![삽입 예시.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/693afa85-a530-48ef-8a0c-7a0f0ed154af/%EC%82%BD%EC%9E%85_%EC%98%88%EC%8B%9C.png)
+![삽입 예시](https://github.com/99MinSu/CS-Study/assets/89891488/876005b9-85e4-4355-85a8-63125130cadc)
 
 마지막에 값 삽입, 현재보다 길이가 1 더 긴 배열을 선언하고 원래의 배열을 복사하고 마지막에 새로운 값을 삽입 하면 된다. 배열의 모든 원소를 복사해야 하므로 시간복잡도는 O(n)
 
-![마지막값 삽입.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/69590811-c303-4406-ae82-b5b6cff61be0/%EB%A7%88%EC%A7%80%EB%A7%89%EA%B0%92_%EC%82%BD%EC%9E%85.gif)
+![마지막값 삽입](https://github.com/99MinSu/CS-Study/assets/89891488/f2597692-d6b8-4d73-ae4c-d3ba6f7fadb6)
 
 - **삭제(Deletion)**:
 
 마지막에 값 삭제, 값을 없애고 자리를 비워두면 되므로  시간복잡도는 O(1)
 
-![마지막 값 삭제.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/3b793990-edce-47d3-8f7a-9b1cdf3c3038/42dca438-5084-4c71-b546-8d142030cdb9/%EB%A7%88%EC%A7%80%EB%A7%89_%EA%B0%92_%EC%82%AD%EC%A0%9C.gif)
+![마지막 값 삭제](https://github.com/99MinSu/CS-Study/assets/89891488/23439f50-9f0a-4e8a-8560-d92f64484319)
 
 ## 배열의 장점
 
@@ -154,3 +156,8 @@ for(int i = 0; i < arr.length; i++) { 행의 요소들 전체
 // [[1, 2, 3], [4, 5, 6, 8]]
 System.out.println(Arrays.toString(arr));
 ```
+### Reference
+https://cheris8.github.io/python/DS-Array/
+[Array](https://www.notion.so/Array-29794fcc77784f43b90ac677167b5260?pvs=21) 
+https://www.tcpschool.com/c/c_array_twoDimensional
+https://jjoonleo.tistory.com/8
