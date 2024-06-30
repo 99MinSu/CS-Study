@@ -3,6 +3,13 @@
 ## Contents
 - [DataStructure (자료구조)](https://github.com/99MinSu/CS-Study/tree/main/DataStructure)
 - [Design_Pattern (디자인 패턴)](https://github.com/99MinSu/CS-Study/tree/main/Design_Pattern)
+- [DB (데이터베이스)](https://github.com/99MinSu/CS-Study/tree/main/DB)
+- [Algorithm (알고리즘)](https://github.com/99MinSu/CS-Study/tree/main/Algorithm)
+- [Network (네트워크)](https://github.com/99MinSu/CS-Study/tree/main/Network)
+- [OS (운영체제)](https://github.com/99MinSu/CS-Study/tree/main/OS)
+
+
+
 
 ## About
 - 전공자로서 알아야 할 기본 **CS 지식**을 공부, 발표, 토론하고 정리해둔 공간입니다.  
@@ -12,13 +19,9 @@
 
 ## Guide
 
-> [스터디 규칙 :bulb:](https://github.com/99MinSu/CS-Study/issues/14)   
-
-> 구경하는 방법 : 각 대주제(폴더)마다 README 파일이 하나씩 있는 구조입니다.   
-  원하는 폴더로 이동한 다음, 상단의 햄버거 버튼을 누르면 목차대로 보실 수 있습니다.  
-
-  <img src="https://user-images.githubusercontent.com/72124326/221341370-066b6e11-41cd-4e7e-ac7d-1d70544e940c.png" width="50%" height="50%">
-
+> [스터디 규칙 :bulb:](https://github.com/99MinSu/CS-Study/issues/14)    
+- 목차 중 관심 있는 거 선택 후 참고하시면 됩니다!! 
+- 현재 자료구조 정리했고 데이터베이스 정리 진행중입니다~
 ## Contributors
 <p>
 <a href="https://github.com/99MinSu">
@@ -33,7 +36,7 @@
 </p>
 
 ## Reference
-- [wonslee CS-study](https://github.com/wonslee/CS-stud)
+- [wonslee CS-study](https://github.com/wonslee/CS-study)
 - [👨🏻‍💻 Tech Interview](https://gyoogle.dev/blog/)  
 - [서그림님의 CS-study](https://github.com/Seogeurim/CS-study)  
 - [GitHub - JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner#part-1-%EC%A0%84%EC%82%B0-%EA%B8%B0%EC%B4%88)  

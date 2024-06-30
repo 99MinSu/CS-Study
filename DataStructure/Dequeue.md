@@ -55,7 +55,7 @@ deque.offerLast(4);   // deque: [3, 1, 2, 4]
 <img width="450" alt="삭제" src="https://github.com/OkKim99/CS-Study/assets/89891488/1ddc9669-f50f-4e2e-b57c-86ebfd5d3483">
 
 ```java
-// removeFirst() 메서드: 덱의 앞에 요소를 추가하고, 덱이 비어있으면 예외가 발생.
+// removeFirst() 메서드: 덱의 앞 요소 제거 및 반환, 덱이 비어있으면 예외가 발생.
 deque.removeFirst();  // element(), pop()
 
 // pollFirst() 메서드: 덱의 앞 요소 제거 및 반환, 덱이 비어있으면 null 리턴.
