@@ -8,9 +8,11 @@
 
 * [x] [그래프](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Graph.md)
 
-* [x] [힙](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Heap.md)
+* [x] [힙과 우선순위 큐](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Heap&Priority_Queue.md)
 
 * [x] [배열](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Array.md)
+
+* [x] [백터](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Vector.md)
 
 * [x] [해시](https://github.com/99MinSu/CS-Study/blob/main/DataStructure/Hash.md)
 
