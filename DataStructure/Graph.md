@@ -124,8 +124,8 @@ public class bfsdfs_list {
     public static void main(String[] args) {
         // 자료구조
     	for (int i = 0; i < 6; i++) { // 0 dummy list
-			adjList.add(new ArrayList<Integer>()); // 0, 1, 2, 3, 4 ArrayList 객체가 만들어 진다.
-		}
+		adjList.add(new ArrayList<Integer>()); // 0, 1, 2, 3, 4 ArrayList 객체가 만들어 진다.
+	}
 
         adjList.get(0).add(1);
         adjList.get(0).add(4);
@@ -164,8 +164,8 @@ public class bfsdfs_list {
     public static void main(String[] args) {
         // 자료구조
     	for (int i = 0; i < 6; i++) { // 0 dummy list
-			adjList.add(new ArrayList<Integer>()); // 0, 1, 2, 3, 4 ArrayList 객체가 만들어 진다.
-		}
+		adjList.add(new ArrayList<Integer>()); // 0, 1, 2, 3, 4 ArrayList 객체가 만들어 진다.
+	}
 
         adjList.get(0).add(1);
         adjList.get(0).add(4);
@@ -179,7 +179,7 @@ public class bfsdfs_list {
         visit = new boolean[6];
         
    
-				dfs(0);
+	dfs(0);
     }    
     // stack 대신 동일한 효과 더 편한 재귀 호출을 이용
     static void dfs(int n) { // n : 시작 정점
@@ -191,9 +191,9 @@ public class bfsdfs_list {
         // 계속 방문을 이어 간다.
         List<Integer> list = adjList.get(n);
         for (Integer i : list) {
-						if( visit[i] ) continue;
+	if( visit[i] ) continue;
             dfs(i);
-		    }         
+	}         
     }
 }
 ```
@@ -226,8 +226,8 @@ public class bfsdfs_list {
     public static void main(String[] args) {
         // 자료구조
     	for (int i = 0; i < 6; i++) { // 0 dummy list
-			adjList.add(new ArrayList<Integer>()); // 0, 1, 2, 3, 4 ArrayList 객체가 만들어 진다.
-		}
+		adjList.add(new ArrayList<Integer>()); // 0, 1, 2, 3, 4 ArrayList 객체가 만들어 진다.
+	}
 
         adjList.get(0).add(1);
         adjList.get(0).add(4);
