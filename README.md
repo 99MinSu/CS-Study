@@ -3,6 +3,13 @@
 ## Contents
 - [DataStructure (자료구조)](https://github.com/99MinSu/CS-Study/tree/main/DataStructure)
 - [Design_Pattern (디자인 패턴)](https://github.com/99MinSu/CS-Study/tree/main/Design_Pattern)
+- [DB (데이터베이스)](https://github.com/99MinSu/CS-Study/tree/main/DB)
+- [Algorithm (알고리즘)](https://github.com/99MinSu/CS-Study/tree/main/Algorithm)
+- [Network (네트워크)](https://github.com/99MinSu/CS-Study/tree/main/Network)
+- [OS (운영체제)](https://github.com/99MinSu/CS-Study/tree/main/OS)
+
+
+
 
 ## About
 - 전공자로서 알아야 할 기본 **CS 지식**을 공부, 발표, 토론하고 정리해둔 공간입니다.  
