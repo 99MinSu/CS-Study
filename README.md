@@ -19,8 +19,9 @@
 
 ## Guide
 
-> [스터디 규칙 :bulb:](https://github.com/99MinSu/CS-Study/issues/14)   
-
+> [스터디 규칙 :bulb:](https://github.com/99MinSu/CS-Study/issues/14)    
+- 목차 중 관심 있는 거 선택 후 참고하시면 됩니다!! 
+- 현재 자료구조 정리했고 데이터베이스 정리 진행중입니다~
 ## Contributors
 <p>
 <a href="https://github.com/99MinSu">
