@@ -29,7 +29,6 @@
       <td height="140px" align="center"> <a href="https://github.com/99MinSu"><img src="https://avatars.githubusercontent.com/u/89891084?v=4" width="140px" /><br/>👩🏻‍💻 이민수</a></td>
       <td height="140px" align="center"> <a href="https://github.com/Minsu17"><img src="https://avatars.githubusercontent.com/u/89891511?s=96&v=4" width="140px" /><br/>👩🏻‍💻 서민수</a></td>
       <td height="140px" align="center"> <a href="https://github.com/OkKim99"><img src="https://avatars.githubusercontent.com/u/89891488?s=400&v=4" width="140px" /><br/>👩🏻‍💻 김병옥</a></td>
-      <td height="140px" align="center"> <a href="https://github.com/ocsba0821"><img src="https://avatars.githubusercontent.com/u/89891306?v=4" width="140px" /><br/>👩🏻‍💻 최종민</a></td>
     </tr>  
 </table>
 
