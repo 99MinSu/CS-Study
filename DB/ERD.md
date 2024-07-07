@@ -29,15 +29,18 @@
 
 - 추상화 : ERD는 실제 세계의 시스템을 추상화한 것이기 때문에 설계자가 시스템에 더욱 효율적으로 집중할 수 있도록 도와준다.
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/d1ac9073-b657-497d-8d6a-40745585396d)
+![1번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/97dab8a2-cf97-4913-a405-7efb4a42aaed)
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/015b183b-91d4-4906-b9f2-66337cfbb5c1)
+
+![2번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/5f497167-d1ca-4ef8-b744-bd7ed53f8d64)
+
 
 ---
 
 ## 예제로 배우는 ERD
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/195c9211-53d0-4e76-b9fc-10da553873fa)
+![3번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/29aeb674-a672-4dcc-a8b6-5ca52d186da6)
+
 
 
 ---
@@ -67,7 +70,8 @@
 - 중복 될 수 있는 그룹은 따로 분리해서 관리
 - 식별자로 관리
 
-(![image](https://github.com/99MinSu/CS-Study/assets/89891306/20e212c8-60f9-479f-8b59-b4cc731dd0b1)
+![4번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/b97ade25-e5f8-4493-a051-faca1372f0c4)
+
 
 ---
 
@@ -77,7 +81,8 @@
 
 기존에 제 1 정규화 과정을 거친 뒤, 부분 함수의 종속성을 제거한 형태를 말하며, 쉽게 말해 기본 키가 아닌 모든 속성이 기본키에 완전 함수 종속적인 것 (1NF -> 2NF)
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/9aba7cb2-a68a-4e79-9636-f142d9b8f22b)
+![5번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/314006cc-a617-44a0-8231-159430418221)
+
 
 ---
 
@@ -90,7 +95,8 @@
 `이행적 함수`?
 => A, B, C가 속성(열)이라고 할 때, A가 B에 함수적으로 종속되고, 동시에 B가 C에 함수적으로 종속되며, A가 C에 함수적으로 종속되지 않는 경우
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/2370ed60-2432-4a7b-9611-5519435562e5)
+
+![6번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/f140d956-3711-4154-9251-3f1415a2484c)
 
 
 ---
@@ -103,7 +109,8 @@
 
 `결정자` : ‘X’ → ‘Y’일때 X는 결정자, Y는 종속자
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/ee4b5d03-df5c-48a5-bf14-0385d39b0927)
+![7번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/9020d2d2-0d8e-4e4a-91d7-93be53898c8b)
+
 
 ---
 
@@ -119,7 +126,8 @@
 
 > 다치 종속은 최소 2개의 컬럼이 다른 컬럼에 종속되어야 하기 때문에 최소 3개의 컬럼이 필요하다.
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/804a8475-9204-4891-b6b8-0e15bf176bf6)
+![8번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/1a3f7b06-6637-4dca-b006-1603de5f651c)
+
 
 ---
 
@@ -132,7 +140,8 @@
 > 조인 종속 : 
 > 하나의 릴레이션을 여러개의 릴레이션으로 분해하였다가, 다시 조인했을 때 데이터 손실이 없고 필요없는 데이터가 생기는 것을 말한다. 조인 종속성은 다치 종속의 개념을 더 일반화한 것이다.
 
-![image](https://github.com/99MinSu/CS-Study/assets/89891306/8670daec-27e6-4d71-8caa-103fcefd2958)
+![9번 사진](https://github.com/ocsba0821/CS-Study/assets/89891306/9293b216-09a6-4cd2-a72e-3328dc374884)
+
 
 ----
 출처
