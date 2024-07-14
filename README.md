@@ -14,7 +14,7 @@
 ## About
 - 전공자로서 알아야 할 기본 **CS 지식**을 공부, 발표, 토론하고 정리해둔 공간입니다.  
 - 주목적은 **면접 대비, CS 지식 습득**이고, 향후 다른 개발자들과 **소통**하여 좋은 영향을 주고 받을 수 있게 되는 것이 또 하나의 목표입니다.
-- 컴퓨터소프트웨어공학과 졸업생 3명 (Java Spring 3명)이 진행중입니다. 
+- 컴퓨터소프트웨어공학과 졸업생 4명 (Java Spring 4명)이 진행중입니다. 
 - 2024.06.16 ~
 
 ## Guide
@@ -22,18 +22,15 @@
 > [스터디 규칙 :bulb:](https://github.com/99MinSu/CS-Study/issues/14)    
 - 목차 중 관심 있는 거 선택 후 참고하시면 됩니다!! 
 - 현재 자료구조 정리했고 데이터베이스 정리 진행중입니다~
+- 정리가 완료되면 주에 목차 하나 정하고 서로 면접 질문을 예상해 면접 방식과 똑같이 진행하면서 면접 연습을 할 예정입니다.
 ## Contributors
-<p>
-<a href="https://github.com/99MinSu">
-  <img src="https://avatars.githubusercontent.com/u/89891084?v=4" width="100">
-</a>
-<a href="https://github.com/Minsu17">
-  <img src="https://avatars.githubusercontent.com/u/89891511?s=96&v=4" width="100">
-</a>
-<a href="https://github.com/OkKim99">
-  <img src="https://avatars.githubusercontent.com/u/89891488?s=400&v=4" width="100">
-</a>
-</p>
+<table>
+    <tr>
+      <td height="140px" align="center"> <a href="https://github.com/99MinSu"><img src="https://avatars.githubusercontent.com/u/89891084?v=4" width="140px" /><br/>👩🏻‍💻 이민수</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/Minsu17"><img src="https://avatars.githubusercontent.com/u/89891511?s=96&v=4" width="140px" /><br/>👩🏻‍💻 서민수</a></td>
+      <td height="140px" align="center"> <a href="https://github.com/OkKim99"><img src="https://avatars.githubusercontent.com/u/89891488?s=400&v=4" width="140px" /><br/>👩🏻‍💻 김병옥</a></td>
+    </tr>  
+</table>
 
 ## Reference
 - [wonslee CS-study](https://github.com/wonslee/CS-study)
