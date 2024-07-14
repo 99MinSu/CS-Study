@@ -64,7 +64,7 @@
 
 그림으로 비교하는 TCP vs UDP
 
-![image](https://github.com/user-attachments/assets/d4e0a7c8-30c4-413b-b8e6-aa5c1f193d6c)
+![img1 daumcdn](https://github.com/user-attachments/assets/85cda583-3d76-444e-9bed-ae56a87836b1)
 ![image](https://github.com/user-attachments/assets/a1a05bf6-1469-4d98-a0d4-3354650ea347)
 
 
