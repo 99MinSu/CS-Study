@@ -2,9 +2,9 @@
 
 ## 목차
 
-* [x] [백트래킹](https://github.com/99MinSu/CS-Study/blob/main/Algorithm/DatabaseType.md)
+* [x] [백트래킹](https://github.com/99MinSu/CS-Study/blob/main/Algorithm/BackTracking.md)
 
-* [x] [비트마스킹](https://github.com/99MinSu/CS-Study/blob/main/Algorithm/Database_Basic.md)
+* [x] [비트마스킹](https://github.com/99MinSu/CS-Study/blob/main/Algorithm/BitMasking.md)
 
 * [x] [DFS와 BFS](https://github.com/99MinSu/CS-Study/blob/main/Algorithm/DFS_BFS.md)
 
